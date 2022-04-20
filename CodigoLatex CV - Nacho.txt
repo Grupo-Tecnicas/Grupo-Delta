@@ -1,0 +1,144 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wenneker Resume/CV
+% LaTeX Template
+% Version 1.1 (19/6/2016)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Frits Wenneker (http://www.howtotex.com) with extensive modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper,12pt]{memoir} % Font and paper size
+
+\input{structure.tex} % Include the file specifying document layout and packages
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION 
+%----------------------------------------------------------------------------------------
+
+\userinformation{ % Set the content that goes into the sidebar of each page
+\begin{flushright}
+% Comment out this figure block if you don't want a photo
+\includegraphics[width=0.6\columnwidth]{Foto.jpg}\\[\baselineskip] % Your photo
+\small % Smaller font size
+Ignacio Yamin Naief \\ % Your name
+\url{ignacioyamin@gmail.com} \\ % Your email address
+
+
+\Sep % Some whitespace
+\textbf{Domicilio} \\
+Av. San Martin - Mendoza, Mendoza \\ % Address 1
+\textbf{Nacionalidad} \\
+Argentino\\
+\textbf{Edad}\\
+28 años \\
+\textbf{Celular}\\
+2616842669 \\
+
+\vfill % Whitespace under this block to push it up under the photo
+\end{flushright}
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\userinformation % Print your information in the left column
+
+\framebreak % End of the first column
+
+%----------------------------------------------------------------------------------------
+%	HEADING
+%----------------------------------------------------------------------------------------
+
+\cvheading{Ignacio Yamin Naief} % Large heading - your name
+
+\cvsubheading{Estudiante avanzado Ingeniería Industrial} % Subheading - your occupation/specialization
+
+%----------------------------------------------------------------------------------------
+%	ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{Acerca de mi}{Actualmente cursando el último año de la carrera Ingeniería Industrial en la Universidad Nacional de Cuyo. Busco un puesto en el que pueda desarrollar tanto lo aprendido en la carrera como otros conocimientos obtenidos fuera de ella. Soy una persona responsable,puntual, curiosa, en busca de aprender y mejorar constantemente,a la que le gustan los desafios,  trabajar en equipo, anticiparse a los problemas y, si aparecen, resolverlos de forma rápida y eficiente}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\CVSection{Educación}
+
+%------------------------------------------------
+
+\CVItem{Mar 2012 - actualidad, Universidad Nacional de Cuyo}{Ingeniería Industrial}
+
+%------------------------------------------------
+\CVItem{Ene 2018 - Jul 2018, LivingTheWeb}{Curso certificado de HTML, CSS y Javascript}\\
+%------------------------------------------------
+\CVItem{Mar 2008 -Nov 2011, Liceo Agrícola y Enológico D.F. Sarmient}{Modalidad Producción de Bienes y Servicios, orientado principalmente a industria vitivinícola}
+
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\CVSection{Experiencia}
+
+%------------------------------------------------
+
+\CVItem{Dic 2020 - Nov 2021, \textit{Representante de ventas mayoristas}, Importadora Sin Rival}{
+Descripción de las tareas realizadas:
+\begin{itemize}
+	\item Visitar la cartera de clientes, ubicados en 9 provincias disintas,tomando pedidos y asesorándolos en la misma
+	\item Servicio post venta 
+	\item Optimización de ruta y gastos durante los viajes
+\end{itemize}}
+
+%------------------------------------------------
+\CVItem{Mar 2011 - Aug 2021, \textit{Encargado de Salon}, Supermercado SADY}{
+Descripción de las tareas realizadas:
+\begin{itemize}
+	\item Atención directa al cliente en los distintos rubros del supermercado tales como panadería, fiambrería y carnicería
+	\item Cajero
+	\item Mantenimiento 
+	\item Control de inventarios y encargado dcompras
+\end{itemize}}
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+
+\Sep % Extra whitespace after the end of a major section
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS
+%----------------------------------------------------------------------------------------
+
+\CVSection{Habilidades y Competencias}
+
+%------------------------------------------------
+
+\CVItem{Idiomas}{Inglés: nivel avanzado; oral y escrito}
+
+%------------------------------------------------
+
+\CVItem{Computación}{Manejo de paquete Office, HTML, CSS}
+
+%------------------------------------------------
+
+
+\end{document}
