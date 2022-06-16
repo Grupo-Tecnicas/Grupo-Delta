@@ -1,0 +1,1 @@
+En el siguiente módulo se afrontaron varios aspectos del lenguaje de programación R
