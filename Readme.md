@@ -25,13 +25,13 @@
        Integrantes
     </h3> 
    
-    <ul>
+    <ol>
         <li>Arnold, Juan Manuel - juanmaprarnold@gmail.com</li>
         <li>Basile, Marcos - marcosbf.07@gmail.com</li>
         <li>Lara, Julieta - julietalaralalik@gmail.com</li>
         <li>Megazzini, Eric - emegazzini@gmail.com</li>
         <li>Yamin Naief, Ignacio - ignacioyamin@gmail.com</li>
-   </ul>
+   </ol>
     <h3>
     Tutores
     </h3>
