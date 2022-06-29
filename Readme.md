@@ -44,7 +44,7 @@
     <ol>
         <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/Modulo%201:%20Producci%C3%B3n%20de%20Textos%20e%20Hipertextos">Módulo 1 - Producción de textos e hipertextos</a></li>
         <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/M%C3%B3dulo%202%20-%20%20Programaci%C3%B3n%20en%20R">Módulo 2 - Introducción a lenguajes de programación de alto nivel </a></li>
-        <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/M%C3%B3dulo%203:%20Resiliencia%20y%20sostenibilidad%20en%20las%20infraestructuras%20cr%C3%ADticas"></a>Módulo 3 - Resiliencia y Sosteniblidad en las Infraestructuras Críticas </li>
+        <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/M%C3%B3dulo%203:%20Resiliencia%20y%20sostenibilidad%20en%20las%20infraestructuras%20cr%C3%ADticas">Módulo 3 - Resiliencia y Sosteniblidad en las Infraestructuras Críticas</a></li>
         <li><a href=""></a>Módulo 4 - Simulación de sistemas de manufactura </li>
     </ol>
 </body>
